@@ -1,2 +1,2 @@
 # PictureBed
-洋导的图床
+YuYang的图床
