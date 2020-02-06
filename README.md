@@ -1,2 +1,2 @@
 # PictureBed
-YuYangOU的图床
+YuYangOUC的图床
